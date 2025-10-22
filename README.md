@@ -26,10 +26,10 @@ Users should be able to:
 
 ### Screenshot
 
-![Mobile view](/screenshot/mobile-375px.png)  
+![Mobile view](/screenshots/mobile-375px.png)  
 _Mobile view_
 
-![Desktop view](/screenshot/desktop-1440px.png)  
+![Desktop view](/screenshots/desktop-1440px.png)  
 _Desktop view_
 
 ### Links
