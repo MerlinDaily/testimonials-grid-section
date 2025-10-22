@@ -63,6 +63,9 @@ h2 {
 	&:nth-child(1) {
 		background-color: $purple500;
 		color: $white;
+		background-image: url(/images/bg-pattern-quotation.svg);
+		background-repeat: no-repeat;
+		background-position: top right;
 	}
 
 	&:nth-child(2) {

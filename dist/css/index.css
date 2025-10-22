@@ -35,6 +35,9 @@ h2 {
 .card:nth-child(1) {
   background-color: hsl(263, 55%, 52%);
   color: hsl(0, 0%, 100%);
+  background-image: url(/images/bg-pattern-quotation.svg);
+  background-repeat: no-repeat;
+  background-position: top right;
 }
 .card:nth-child(2) {
   background-color: hsl(217, 19%, 35%);
